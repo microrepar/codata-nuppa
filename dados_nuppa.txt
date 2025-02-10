@@ -1,0 +1,40 @@
+Acelga;12 unidades;R$ 60,00;R$ 60,00;R$ 72,00;R$ 64,00;R$ 60,00
+Agrião;12 unidades;R$ 84,00;R$ 84,00;R$ 96,00;R$ 88,00;R$ 84,00
+Alface Americana;12 unidades;R$ 00,00;R$ 40,00;R$ 60,00;R$ 46,75;R$ 43,50
+Alface crespa;12 unidades;R$ 00,00;R$ 20,00;R$ 48,00;R$ 30,50;R$ 27,00
+Alface lisa;12 unidades;R$ 00,00;R$ 20,00;R$ 48,00;R$ 30,50;R$ 27,00
+Almeirão;12 unidades;R$ 60,00;R$ 60,00;R$ 66,00;R$ 62,00;R$ 60,00
+Brócolos ninja/japonês;12 unidades;R$ 78,00;R$ 72,00;R$ 78,00;R$ 76,00;R$ 78,00
+Brócolos ramoso;12 unidades;R$ 84,00;R$ 84,00;R$ 84,00;R$ 84,00;R$ 84,00
+Couve-Manteiga;12 unidades;R$ 24,00;R$ 24,00;R$ 30,00;R$ 25,75;R$ 24,50
+Couve-flor;12 unidades;R$ 00,00;R$ 72,00;R$ 90,00;R$ 82,00;R$ 84,00
+Escarola;12 unidades;R$ 24,00;R$ 20,00;R$ 30,00;R$ 24,50;R$ 24,00
+Espinafre;12 unidades;R$ 72,00;R$ 60,00;R$ 72,00;R$ 68,00;R$ 72,00
+Rabanete;12 maços;R$ 72,00;R$ 72,00;R$ 72,00;R$ 72,00;R$ 72,00
+Repolho roxo;12 unidades;R$ 00,00;R$ 60,00;R$ 78,00;R$ 67,67;R$ 65,00
+Repolho Verde;12 unidades;R$ 45,00;R$ 45,00;R$ 48,00;R$ 46,00;R$ 45,00
+Rúcula;12 unidades;R$ 54,00;R$ 48,00;R$ 60,00;R$ 54,00;R$ 54,00
+Cebolinha Maço;0,5 kg;R$ 5,00;R$ 5,00;R$ 5,00;R$ 5,00;R$ 5,00
+Coentro Maço;2 kg;R$ 25,00;R$ 20,00;R$ 25,00;R$ 22,50;R$ 22,50
+Salsinha Maço;2 kg;R$ 25,00;R$ 25,00;R$ 35,00;R$ 28,75;R$ 27,50
+Abóbora Cabotiá;30 kg;R$ 00,00;R$ 60,00;R$ 65,00;R$ 62,50;R$ 62,50
+Abobrinha Italiana;17 kg;R$ 50,00;R$ 50,00;R$ 65,00;R$ 53,75;R$ 50,00
+Batata-doce;18 kg;R$ 65,00;R$ 45,00;R$ 65,00;R$ 57,50;R$ 60,00
+Berinjela comum;10 kg;R$ 50,00;R$ 50,00;R$ 50,00;R$ 50,00;R$ 50,00
+Berinjela japonesa;10 kg;R$ 00,00;R$ 80,00;R$ 80,00;R$ 80,00;R$ 80,00
+Beterraba;20 kg;R$ 60,00;R$ 50,00;R$ 60,00;R$ 57,50;R$ 60,00
+Cenoura;18 kg;R$ 60,00;R$ 60,00;R$ 80,00;R$ 67,50;R$ 65,00
+Chuchu;18 kg;R$ 00,00;R$ 60,00;R$ 80,00;R$ 70,00;R$ 70,00
+Jiló;17 kg;R$ 60,00;R$ 60,00;R$ 70,00;R$ 63,33;R$ 60,00
+Mandioca;18 kg;R$ 00,00;R$ 80,00;R$ 80,00;R$ 80,00;R$ 80,00
+Pepino comum;17 kg;R$ 65,00;R$ 65,00;R$ 65,00;R$ 65,00;R$ 65,00
+Pepino japonês;17 kg;R$ 00,00;R$ 75,00;R$ 120,00;R$ 96,25;R$ 95,00
+Pimentão verde;10 kg;R$ 00,00;R$ 25,00;R$ 85,00;R$ 45,00;R$ 35,00
+Quiabo;12 kg;R$ 50,00;R$ 50,00;R$ 60,00;R$ 55,00;R$ 55,00
+Tomate Débora;17 kg;R$ 90,00;R$ 60,00;R$ 90,00;R$ 76,25;R$ 77,50
+Vagem macarrão;17 kg;R$ 00,00;R$ 60,00;R$ 100,00;R$ 80,00;R$ 80,00
+Caqui Fuyu;10 kg;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00
+Caqui Guimbo;10 kg;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00
+Caqui Rama Forte;10 kg;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00
+Goiaba;10 kg;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00
+Mexerica Polkan;22 kg;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00;R$ 00,00
